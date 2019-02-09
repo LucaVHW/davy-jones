@@ -65,3 +65,7 @@ header {
 footer {
   padding: 10px;
 }
+audio {
+  border: 2px solid black;
+  border-radius: 30px;
+}
