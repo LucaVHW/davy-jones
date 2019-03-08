@@ -1,12 +1,16 @@
 body {
   margin: 0;
-  background-image: linear-gradient(black, #333, black);
-  display: grid;
-  justify-content: center;
-  grid-gap: 10px;
+  background-image: url(images/4.jpg);
+  background-repeat: no-repeat;
 }
 header {
   padding: 10px;
+}
+.head {
+  background-color: rgba(106,107,104,0.8);
+  display: grid;
+  justify-content: center;
+  grid-gap: 10px;
 }
 .head1 {
   padding: 10px;
