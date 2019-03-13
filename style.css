@@ -2,12 +2,13 @@ body {
   margin: 0;
   background-image: url(images/4.jpg);
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 header {
   padding: 10px;
 }
 .head {
-  background-color: rgba(106,107,104,0.8);
+  background-color: rgba(106,107,104,0.6);
   display: grid;
   justify-content: center;
   grid-gap: 10px;
@@ -15,7 +16,7 @@ header {
 .head1 {
   padding: 10px;
   width: 900px;
-  background-color: rgba(93,90,91, 0.6);
+  background-color: rgb(93,90,91);
   text-align: center;
   color: #E4E8E6;
   text-shadow: 2px 2px #333;
@@ -25,7 +26,7 @@ header {
 .head2 {
   padding: 10px;
   width: 900px;
-  background-color: rgba(93,90,91, 0.6);
+  background-color: rgb(93,90,91);
   text-align: center;
   color: #E4E8E6;
   text-shadow: 2px 2px #333;
@@ -37,7 +38,7 @@ header {
 .head3 {
   padding: 10px;
   width: 900px;
-  background-color: rgba(93,90,91, 0.6);
+  background-color: rgb(93,90,91);
   text-align: center;
   color: white;
   text-shadow: 2px 2px #333;
